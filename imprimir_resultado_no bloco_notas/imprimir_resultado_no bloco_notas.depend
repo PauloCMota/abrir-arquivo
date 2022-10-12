@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1665362651 source:c:\users\user\desktop\aula de linguagem c imprimir resultado no bloco de notas\imprimir_resultado_no bloco_notas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
